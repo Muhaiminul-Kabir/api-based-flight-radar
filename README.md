@@ -35,6 +35,6 @@ pip install matplotlib pandas geopy requests
 
 ## 🖼️ Screenshot
 
-![Radar Scanner Screenshot](Screenshot (115).png)
+![Radar Scanner Screenshot](./Screenshot(115).png)
 
 *Radar GUI displaying live flights around Dhaka, Bangladesh.*
