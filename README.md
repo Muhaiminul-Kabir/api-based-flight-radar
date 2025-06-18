@@ -14,7 +14,7 @@ A Python-based radar-style GUI that visualizes nearby aircraft using real-time d
 
 ---
 
-## 📄 Sample CSV Data (Biman Bangladesh Airlines)
+## 📄 Sample CSV Data 
 
 ```csv
 Callsign,Altitude (m),Country,ICAO,Longitude,Latitude
